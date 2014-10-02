@@ -27,9 +27,8 @@ Open Eclipse
 
 INSTALLATION
 ------------------
-If available, you can demo our project using the virtual mobile device emulator.
+Download the APK provided and connect your Android device to your computer via microUSB.
 
-COMING SOON TO GOOGLE PLAY
 
 TROUBLESHOOTING & FAQ
 ------------------------------------
