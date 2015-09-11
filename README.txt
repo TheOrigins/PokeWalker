@@ -1,3 +1,5 @@
+# PokeWalker
+
 CONTENTS OF THIS FILE
 ---------------------------
 * Introduction
