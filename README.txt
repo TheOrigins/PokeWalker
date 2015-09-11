@@ -1,4 +1,4 @@
-# PokeWalker
+PokeWalker
 
 CONTENTS OF THIS FILE
 ---------------------------
